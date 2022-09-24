@@ -3,9 +3,13 @@
 Step 1: Measure and Set Goals
 Answer the following questions:
 Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
-Loss of control and visibility of company related data being transmitted, stored and processed.
-Personal device could be lost with login credentials in it.
-Susceptibility to man in the middle attacks and eavesdropping at public hotspots.
+
+
+                Loss of control and visibility of company related data being transmitted, stored and processed.
+                Personal device could be lost with login credentials in it.
+                Susceptibility to man in the middle attacks and eavesdropping at public hotspots.
+
+
 Based on the above scenario, what is the preferred employee behavior?
 For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
 Use only company approved and provided apps for handling work data.
